@@ -1,0 +1,12 @@
+# NeuroTouch OS — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+mediapipe==0.10.14
+pyautogui>=0.9.54
+numpy>=1.24.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+pyttsx3>=2.90
+playsound==1.2.2
+keyboard>=0.13.5
